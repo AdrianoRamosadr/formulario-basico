@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkprojeto_casa"]=self["webpackChunkprojeto_casa"]||[]).push([[96],{2096:function(n,r,e){e.r(r),e.d(r,{default:function(){return c}});var s=e(4108);function o(n,r){return(0,s.Wz)(),(0,s.An)("h1",null,"Nossos Serviços")}var t=e(4100);const u={},a=(0,t.c)(u,[["render",o]]);var c=a}}]);
+//# sourceMappingURL=96.f1d5b8ca.js.map
